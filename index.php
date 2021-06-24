@@ -16,7 +16,7 @@
         </div>
         <div class="row border border-primary rounded p-3 m-4 text-secondary justify-content-center">
             <?php 
-                echo 'Today we are on : '. date('l d F Y');
+                echo 'Today we are on : '. date('l d F Y g:i a');
             ?>
         </div>
     </div>
